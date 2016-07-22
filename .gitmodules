@@ -32,3 +32,6 @@
 [submodule "php-ext/.xhprof"]
 	path = php-ext/.xhprof
 	url = https://github.com/facebook/xhprof
+[submodule "php-build"]
+	path = plugins/php-build
+	url = https://github.com/php-build/php-build.git
